@@ -2,6 +2,30 @@
 
 A full-stack task management application built with React, Node.js, Express, and MongoDB. Features secure authentication, task CRUD operations, and real-time updates.
 
+## Application Screenshots
+
+### Login Page
+![Login Page](screenshots/login.png)
+Clean and simple login interface with email and password fields, and a link to sign up for new users.
+
+### Task Management Dashboard
+![Tasks Dashboard](screenshots/tasks.png)
+Main dashboard showing task list with filtering options and add task button. Features:
+- Status filter dropdown
+- Date filter
+- Reset filters button
+- Add Task button
+- Task cards with edit and delete options
+
+### Task Modal
+![Task Modal](screenshots/task-modal.png)
+Modal for creating and editing tasks with fields for:
+- Title
+- Description
+- Status selection
+- Due date picker
+- Save and Cancel options
+
 ## Features
 
 - 🔐 Secure Authentication with JWT and HTTP-only cookies
