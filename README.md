@@ -9,7 +9,7 @@ A full-stack task management application built with React, Node.js, Express, and
 Clean and simple login interface with email and password fields, and a link to sign up for new users.
 
 ### Task Management Dashboard
-![Tasks Dashboard](screenshots/tasks.png)
+![Tasks Dashboard](screenshots/dashboard.png)
 Main dashboard showing task list with filtering options and add task button. Features:
 - Status filter dropdown
 - Date filter
