@@ -5,12 +5,30 @@ A full-stack task management application built with React, Node.js, Express, and
 ## Application Screenshots
 
 ### Login Page
-![Login Page](screenshots/login.png)
+
+<figure>
+   <img src="screenshots/login.png" alt="Login Page" style="max-width:100%;height:auto;display:block;margin:0 auto;" />
+</figure>
+
 Clean and simple login interface with email and password fields, and a link to sign up for new users.
 
+- Status filter dropdown
+- Date filter
+- Reset filters button
+- Add Task button
+- Task cards with edit and delete options
 ### Task Management Dashboard
-![Tasks Dashboard](screenshots/dashboard.png)
+
+<figure>
+   <img src="screenshots/dashboard.png" alt="Tasks Dashboard" style="max-width:100%;height:auto;display:block;margin:0 auto;" />
+</figure>
+
 Main dashboard showing task list with filtering options and add task button. Features:
+- Status filter dropdown
+- Date filter
+- Reset filters button
+- Add Task button
+- Task cards with edit and delete options
 - Status filter dropdown
 - Date filter
 - Reset filters button
@@ -18,7 +36,11 @@ Main dashboard showing task list with filtering options and add task button. Fea
 - Task cards with edit and delete options
 
 ### Task Modal
-![Task Modal](screenshots/task-modal.png)
+
+<figure>
+   <img src="screenshots/task-modal.png" alt="Task Modal" style="max-width:100%;height:auto;display:block;margin:0 auto;" />
+</figure>
+
 Modal for creating and editing tasks with fields for:
 - Title
 - Description
